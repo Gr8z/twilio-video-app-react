@@ -62,8 +62,8 @@ export default function RecordingNotifications() {
         message={
           <>
             You can view the recording in the{' '}
-            <Link target="_blank" rel="noopener" href="https://www.twilio.com/console/video/logs/recordings">
-              Twilio Console
+            <Link target="_blank" rel="noopener" href="https://www.bluamoeba.com">
+              Bluamoeba Admin Panel
             </Link>
             . Recordings will be available once this room has ended.
           </>
